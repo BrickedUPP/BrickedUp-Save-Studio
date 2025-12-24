@@ -1,4 +1,3 @@
-
 BrickedUp Save Studio
 # Features Overview
 BrickedUp Save Studio is an innovative tool designed to simplify game save management. Below are some of the high-level features it offers:
