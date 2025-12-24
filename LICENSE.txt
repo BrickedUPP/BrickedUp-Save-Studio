@@ -1,44 +1,25 @@
-BrickedUp Save Studio License — Non-Commercial, No-Derivatives (2025)
+BrickedUp Save Studio — License (2025)
 
 Copyright (c) 2025 BRICKEDNLOADED
 
-Definitions
-"Software" means the original release of the program(s), binaries, and associated documentation that accompany this license as distributed in this repository.
+All rights reserved.
 
-Grant of Rights
-Subject to the terms below, the copyright holder grants you a limited, non-exclusive, non-transferable, revocable license to:
-- Download, install, execute, and use the Software for personal and non-commercial purposes.
+Redistribution and Public Hosting
 
-Restrictions
-Except as expressly permitted above, you must not:
-- Modify, adapt, translate, or create derivative works of the Software.
-- Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.
-- Sell, sublicense, rent, lease, distribute for a fee, or otherwise commercialize the Software or any derivative works.
-- Remove, alter, or obscure any copyright, trademark or other proprietary notices contained in the Software.
+- Redistribution, public hosting, public distribution, or public reposting of this repository, its source code, binaries, assets, or derivative works is strictly prohibited except within the BRICKEDNLOADED // BL4 Modding Discord server (invite: https://discord.gg/5juY3Kwp).
 
-Redistribution
-- You MAY redistribute unmodified binary copies of the Software free of charge PROVIDED that you:
-  - Include this LICENSE.txt file unchanged; and
-  - Maintain the original copyright and attribution notices.
-- Any redistribution that involves payment, sale, or any commercial benefit is strictly prohibited without a separate written commercial license from the copyright holder.
+- Any other public redistribution, hosting, or distribution is prohibited without prior written permission from BRICKEDNLOADED. To request permission, contact: BRICKEDNLOADED@GMAIL.COM.
 
-Permitted Copies and Backups
-- You may make a limited number of copies of the Software for archival or backup purposes, provided such copies are not modified or distributed commercially.
+Contributions
 
-Commercial License Option
-- To obtain permission to modify, distribute, repackage, or use the Software commercially, you must obtain a separate commercial license from BRICKEDNLOADED. Contact: BRICKEDNLOADED@GMAIL.COM
+- Contributions are permitted under the following conditions:
+  - All contributions require explicit approval by BRICKEDNLOADED before being merged into the project.
+  - By contributing, contributors grant BRICKEDNLOADED the rights described in the Contributor License Grant in CONTRIBUTING.md.
 
-Termination
-- This license is effective until terminated. Your rights under this license will terminate immediately if you fail to comply with any term of this license. Upon termination you must cease all use of the Software and destroy all copies.
+No Warranty
 
-Disclaimer of Warranty
-- THE SOFTWARE IS PROVIDED "AS IS" AND THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+This software is provided "as-is", without warranty of any kind, express or implied. In no event shall BRICKEDNLOADED be liable for any claim, damages or other liability arising from the use of this software.
 
-Limitation of Liability
-- IN NO EVENT WILL THE COPYRIGHT HOLDER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Contact
 
-Governing Law
-- This license will be governed by the laws of the jurisdiction of the copyright holder, without regard to conflict of law principles.
-
-Notes
-- This is a custom, proprietary-style license and is NOT an open-source license. If you require a different set of permissions (for example, allowing modification or commercial redistribution), contact the copyright holder to negotiate separate licensing terms.
+For permissions, approvals, or other inquiries, contact: BRICKEDNLOADED@GMAIL.COM
